@@ -10,6 +10,7 @@ Generated sample data is available in `sample_data` directory.
 ```sh
 pip install -r requirements.txt
 ```
+Fill in `api_key.txt` with your OpenAI api key.
 ### Run Augmentation
 This repository has two settings for data augmentation.
 ```sh
