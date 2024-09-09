@@ -21,7 +21,7 @@ def parse_args():
 
 def parallel_augmentation(idx, args, sentence_list, queue):
     data_points = []
-    for sentence in tqdm(sentence_list[idx*(int(len(sentence_list)/args.augment_workers)):(idx+1)*(int(len(sentence_list)/args.augment_workers))]):
+    for sentence in tqdm(sentence_list[idx*(int(len(sentence_list)/args.workers)):(idx+1)*(int(len(sentence_list)/args.workers))]):
         augmenter = DataAugmenter(idx, args, sentence)
         normalized = augmenter.augment()
         if normalized:
