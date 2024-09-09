@@ -30,7 +30,7 @@ def parallel_augmentation(idx, args, sentence_list, queue):
 
 def parallel_augmentation_scratch(idx, args, queue):
     data_points = []
-    for i in range(0, int(args.sentence_num_from_scratch/args.sentence_per_generation/args.workers)):
+    for i in tqdm(range(0, int(args.sentence_num_from_scratch/args.sentence_per_generation/args.workers))):
         augmenter = DataAugmenter(idx, args)
         normalized = augmenter.augment_from_scratch()
         if normalized:
