@@ -1,0 +1,2217 @@
+PLAIN	The	the
+PLAIN	event	<self>
+PLAIN	is	<self>
+PLAIN	scheduled	<self>
+PLAIN	for	<self>
+DATE	03/15/2023	march fifteen twenty twenty three
+PLAIN	at	<self>
+PLAIN	10:00 AM	ten o'clock a m
+PUNCT	,	sil
+PLAIN	but	<self>
+LETTERS	RSVP	r s v p
+PLAIN	by	<self>
+DATE	02/28/2023	february twenty eight twenty twenty three
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	email	<self>
+PLAIN	info@abc123.com	info at a b c one two three dot com
+PUNCT	.	sil
+CARDINAL	2.	two
+PLAIN	The	the
+PLAIN	population	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	city	<self>
+PLAIN	reached	<self>
+DECIMAL	8.5	eight point five
+PLAIN	million,	million
+PLAIN	with	<self>
+CARDINAL	25%	twenty five percent
+PLAIN	living	<self>
+PLAIN	below	<self>
+PLAIN	the	<self>
+PLAIN	poverty	<self>
+PLAIN	line.	line
+CARDINAL	3.	three
+PLAIN	NASA's	nasa's
+PLAIN	Mars	mars
+PLAIN	rover,	rover
+PLAIN	named	<self>
+PLAIN	Perseverance	perseverance
+LETTERS	(M2020)	m two zero two zero
+PLAIN	has	<self>
+PLAIN	been	<self>
+PLAIN	collecting	<self>
+PLAIN	samples	<self>
+PLAIN	since	<self>
+PLAIN	its	<self>
+PLAIN	launch	<self>
+PLAIN	on	<self>
+DATE	07/30/2020.	july thirtieth twenty twenty
+CARDINAL	4	four
+PLAIN	My	my
+PLAIN	phone	<self>
+PLAIN	number	<self>
+PLAIN	is	<self>
+TELEPHONE	+1	plus one
+TELEPHONE	(555)	five hundred fifty five
+TELEPHONE	123-4567	one hundred twenty three dash four thousand five hundred sixty seven
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	I	i
+PLAIN	can	<self>
+PLAIN	also	<self>
+PLAIN	be	<self>
+PLAIN	reached	<self>
+PLAIN	at	<self>
+PLAIN	my	<self>
+PLAIN	office	<self>
+PLAIN	extension	<self>
+PUNCT	,	sil
+CARDINAL	45678	four five six seven eight
+PUNCT	.	sil
+CARDINAL	5	five
+PLAIN	The	the
+PLAIN	conference	<self>
+PLAIN	will	<self>
+PLAIN	feature	<self>
+PLAIN	speakers	<self>
+PLAIN	from	<self>
+LETTERS	IBM	i b m
+LETTERS	MIT	m i t
+PLAIN	and	<self>
+PLAIN	UNICEF	unicef
+PLAIN	discussing	<self>
+LETTERS	AI	a i
+PLAIN	STEM	stem
+PLAIN	and	<self>
+PLAIN	global	<self>
+PLAIN	health	<self>
+PLAIN	initiatives	<self>
+PUNCT	.	sil
+CARDINAL	6	six
+PLAIN	This	this
+PLAIN	product	<self>
+PLAIN	is	<self>
+PLAIN	available	<self>
+PLAIN	in	<self>
+PLAIN	sizes	<self>
+LETTERS	S	s
+LETTERS	M	m
+LETTERS	L	l
+PLAIN	and	<self>
+LETTERS	XL	x l
+PUNCT	,	sil
+PLAIN	with	<self>
+LETTERS	SKU	s k u
+PLAIN	#94758	hashtag nine four seven five eight
+PLAIN	for	<self>
+PLAIN	reference	<self>
+PUNCT	.	sil
+PUNCT	7.	sil
+PLAIN	The	the
+PLAIN	formula	<self>
+PLAIN	for	<self>
+PLAIN	calculating	<self>
+PLAIN	the	<self>
+PLAIN	area	<self>
+PLAIN	of	<self>
+PLAIN	a	<self>
+PLAIN	circle	<self>
+PLAIN	is	<self>
+PLAIN	A	a
+PUNCT	=	sil
+LETTERS	π	pi
+PLAIN	r²	r squared
+PUNCT	,	sil
+PLAIN	where	<self>
+PLAIN	A	a
+PLAIN	is	<self>
+PLAIN	the	<self>
+PLAIN	area	<self>
+PLAIN	and	<self>
+PLAIN	r	<self>
+PLAIN	is	<self>
+PLAIN	the	<self>
+PLAIN	radius	<self>
+PLAIN	in	<self>
+PLAIN	meters.	meters
+CARDINAL	8.	eight
+PLAIN	Please	please
+PLAIN	confirm	<self>
+PLAIN	your	<self>
+PLAIN	attendance	<self>
+PLAIN	by	<self>
+PLAIN	mailing	<self>
+PLAIN	the	<self>
+PLAIN	form	<self>
+PLAIN	to	<self>
+CARDINAL	123	one hundred twenty three
+PLAIN	Main	main
+PLAIN	St.	street
+PLAIN	Suite	suite
+CARDINAL	400,	four hundred
+PLAIN	Springfield,	springfield
+LETTERS	IL	i l
+CARDINAL	62701,	six thousand two hundred seventy one
+PLAIN	by	<self>
+DATE	04/01/2023.	april first two thousand twenty three
+CARDINAL	9.	nine
+PLAIN	The	the
+PLAIN	temperature	<self>
+PLAIN	forecast	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	week	<self>
+PLAIN	shows	<self>
+PLAIN	highs	<self>
+PLAIN	of	<self>
+MEASURE	90°F	ninety degrees fahrenheit
+PLAIN	and	<self>
+PLAIN	lows	<self>
+PLAIN	of	<self>
+MEASURE	60°F	sixty degrees fahrenheit
+PUNCT	,	sil
+PLAIN	with	<self>
+PLAIN	a	<self>
+CARDINAL	20%	twenty percent
+PLAIN	chance	<self>
+PLAIN	of	<self>
+PLAIN	precipitation	<self>
+PLAIN	on	<self>
+DATE	Thursday	thursday
+PUNCT	.	sil
+CARDINAL	10.	ten
+PLAIN	The	the
+PLAIN	survey,	survey
+LETTERS	ID	I D
+CARDINAL	#4527,	number four thousand five hundred twenty seven
+PLAIN	will	<self>
+PLAIN	close	<self>
+PLAIN	on	<self>
+DATE	12/31/2023,	december thirty first two thousand twenty three
+PLAIN	and	<self>
+PLAIN	participants	<self>
+PLAIN	will	<self>
+PLAIN	be	<self>
+PLAIN	entered	<self>
+PLAIN	to	<self>
+PLAIN	win	<self>
+PLAIN	a	<self>
+MONEY	$100	one hundred dollars
+PLAIN	gift	<self>
+PLAIN	card.	card
+PLAIN	The	the
+PLAIN	conference	<self>
+PLAIN	scheduled	<self>
+PLAIN	for	<self>
+DATE	09/15/2023	september fifteenth two thousand twenty three
+PLAIN	will	<self>
+PLAIN	begin	<self>
+PLAIN	at	<self>
+CARDINAL	10:30	ten thirty
+LETTERS	AM	a m
+PLAIN	sharp	<self>
+PLAIN	in	<self>
+PLAIN	Room	room
+PLAIN	A-101	a one oh one
+PUNCT	.	sil
+CARDINAL	2.	two
+PLAIN	To	to
+PLAIN	calculate	<self>
+PLAIN	the	<self>
+PLAIN	volume	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	cylinder,	cylinder
+PLAIN	use	<self>
+PLAIN	the	<self>
+PLAIN	formula	<self>
+LETTERS	V	<self>
+PUNCT	=	sil
+PLAIN	π	pi
+PLAIN	r²h,	r squared h
+PLAIN	where	<self>
+LETTERS	r	<self>
+PLAIN	is	<self>
+PLAIN	the	<self>
+PLAIN	radius	<self>
+PLAIN	and	<self>
+LETTERS	h	<self>
+PLAIN	is	<self>
+PLAIN	the	<self>
+PLAIN	height,	height
+PLAIN	measured	<self>
+PLAIN	in	<self>
+MEASURE	cm.	centimeters
+CARDINAL	3.	three
+PLAIN	Please	please
+PLAIN	send	<self>
+PLAIN	the	<self>
+PLAIN	report	<self>
+PLAIN	by	<self>
+LETTERS	EOD	e o d
+PLAIN	to	<self>
+PLAIN	the	<self>
+LETTERS	CEO,	ceo
+PLAIN	which	<self>
+PLAIN	includes	<self>
+PLAIN	the	<self>
+LETTERS	KPIs	k p i s
+PLAIN	for	<self>
+LETTERS	Q3	q three
+PLAIN	under	<self>
+PLAIN	the	<self>
+PLAIN	new	<self>
+PLAIN	initiative,	initiative
+PLAIN	"Project	project
+LETTERS	X."	x
+CARDINAL	4.	four
+PLAIN	The	the
+PLAIN	patient’s	patient's
+LETTERS	ID#	id
+LETTERS	457-BDRE45	four hundred fifty seven dash b d r e four five
+PLAIN	was	<self>
+PLAIN	flagged	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	system	<self>
+PLAIN	for	<self>
+PLAIN	potential	<self>
+PLAIN	follow-up	<self>
+PLAIN	regarding	<self>
+PLAIN	their	<self>
+PLAIN	prescriptions	<self>
+PLAIN	and	<self>
+PLAIN	medical	<self>
+PLAIN	history.	history
+CARDINAL	5.	five sil
+PLAIN	The	the
+PLAIN	chemical	<self>
+PLAIN	formula	<self>
+PLAIN	for	<self>
+PLAIN	glucose	<self>
+PLAIN	is	<self>
+LETTERS	C6H12O6,	c six h twelve o six sil
+PLAIN	and	<self>
+PLAIN	it	<self>
+PLAIN	is	<self>
+PLAIN	essential	<self>
+PLAIN	for	<self>
+PLAIN	various	<self>
+PLAIN	metabolic	<self>
+PLAIN	processes	<self>
+PLAIN	within	<self>
+PLAIN	the	<self>
+PLAIN	human	<self>
+PLAIN	body.	body sil
+CARDINAL	6	six
+PLAIN	According	according
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	latest	<self>
+PLAIN	survey	<self>
+PLAIN	by	<self>
+PLAIN	the	<self>
+LETTERS	U.N.	u n
+PLAIN	on	<self>
+PLAIN	global	<self>
+PLAIN	warming	<self>
+PLAIN	trends,	trends
+LETTERS	CO2	c o two
+PLAIN	levels	<self>
+PLAIN	have	<self>
+PLAIN	increased	<self>
+PLAIN	by	<self>
+DECIMAL	2.5	two point five
+PLAIN	ppm	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	last	<self>
+PLAIN	decade.	decade
+PUNCT	.	sil
+CARDINAL	7	seven
+PLAIN	The	the
+LETTERS	GPS	g p s
+PLAIN	coordinates	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	Meetup	meetup
+PLAIN	location	<self>
+PLAIN	are	<self>
+DECIMAL	37.7749°	thirty seven point seven seven four nine degrees
+LETTERS	N	n
+PUNCT	,	sil
+DECIMAL	122.4194°	one hundred twenty two point four one nine four degrees
+LETTERS	W	w
+PUNCT	,	sil
+PLAIN	right	<self>
+PLAIN	outside	<self>
+PLAIN	the	<self>
+PLAIN	Golden	golden
+PLAIN	Gate	gate
+PLAIN	Park	park
+PLAIN	entrance	<self>
+PUNCT	.	sil
+CARDINAL	8.	eight
+PLAIN	The	the
+PLAIN	product's	<self>
+LETTERS	SKU#	s k u
+LETTERS	123-XYZ987	one hundred twenty three dash x y z nine eight seven
+PLAIN	must	<self>
+PLAIN	be	<self>
+PLAIN	restocked	<self>
+PLAIN	before	<self>
+PLAIN	the	<self>
+PLAIN	end	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	month	<self>
+PLAIN	to	<self>
+PLAIN	meet	<self>
+PLAIN	demand	<self>
+PLAIN	during	<self>
+PLAIN	the	<self>
+PLAIN	holiday	<self>
+PLAIN	season.	season
+CARDINAL	9.	nine
+PLAIN	For	for
+PLAIN	the	<self>
+PLAIN	experiment,	experiment
+PLAIN	mix	<self>
+CARDINAL	25	twenty five
+MEASURE	mL	milliliters
+PLAIN	of	<self>
+LETTERS	NaCl	n a c l
+PLAIN	solution	<self>
+PLAIN	with	<self>
+CARDINAL	50	fifty
+MEASURE	µL	microliters
+PLAIN	of	<self>
+LETTERS	DNA	d n a
+PLAIN	sample,	sample
+PLAIN	then	<self>
+PLAIN	incubate	<self>
+PLAIN	at	<self>
+MEASURE	37°C	thirty seven degrees celsius
+PLAIN	for	<self>
+CARDINAL	30	thirty
+PLAIN	minutes.	minutes
+CARDINAL	10	ten
+PLAIN	Our	our
+PLAIN	monthly	<self>
+PLAIN	subscription	<self>
+PLAIN	costs	<self>
+MONEY	$19.99	nineteen dollars and ninety nine cents
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	if	<self>
+PLAIN	you	<self>
+PLAIN	refer	<self>
+PLAIN	a	<self>
+PLAIN	friend	<self>
+PUNCT	,	sil
+PLAIN	you’ll	you'll
+PLAIN	also	<self>
+PLAIN	receive	<self>
+PLAIN	a	<self>
+MONEY	$5	five dollars
+PLAIN	discount	<self>
+PLAIN	on	<self>
+PLAIN	your	<self>
+PLAIN	next	<self>
+PLAIN	billing	<self>
+PLAIN	cycle	<self>
+PUNCT	.	sil
+PLAIN	The	the
+PLAIN	presentation	<self>
+PLAIN	on	<self>
+LETTERS	AI	a i
+PLAIN	systems,	systems
+PLAIN	specifically	<self>
+PLAIN	the	<self>
+LETTERS	RNN	r n n
+PUNCT	(Recurrent	sil
+PLAIN	Neural	neural
+PUNCT	Network)	sil
+PLAIN	architecture,	architecture
+PLAIN	will	<self>
+PLAIN	commence	<self>
+PLAIN	at	<self>
+TIME	10:30	ten thirty
+LETTERS	AM	a m
+PLAIN	on	<self>
+DATE	12/11/2023	twelfth of november twenty twenty three
+PLAIN	in	<self>
+PLAIN	Room	room
+PLAIN	B2.	b two
+CARDINAL	2.	two
+PLAIN	After	after
+PLAIN	reviewing	<self>
+PLAIN	the	<self>
+LETTERS	Q1	q one
+PLAIN	and	<self>
+LETTERS	Q2	q two
+PLAIN	reports,	reports
+PLAIN	our	<self>
+PLAIN	team	<self>
+PLAIN	discovered	<self>
+PLAIN	that	<self>
+PLAIN	the	<self>
+PLAIN	conversion	<self>
+PLAIN	rate	<self>
+PLAIN	dropped	<self>
+PLAIN	by	<self>
+DECIMAL	15%	fifteen percent
+PLAIN	from	<self>
+DATE	2022	two thousand twenty two
+PLAIN	to	<self>
+DATE	2023,	two thousand twenty three
+PLAIN	skewing	<self>
+PLAIN	the	<self>
+MEASURE	12-month	twelve month
+PLAIN	average.	average
+CARDINAL	3.	three
+PLAIN	To	to
+PLAIN	contact	<self>
+PLAIN	support,	support
+PLAIN	please	<self>
+PLAIN	dial	<self>
+TELEPHONE	1-800-555-0199	one eight hundred five five five zero one nine nine
+PLAIN	and	<self>
+PLAIN	mention	<self>
+PLAIN	your	<self>
+PLAIN	case	<self>
+PLAIN	number:	number
+LETTERS	AB1234YZ.	a b one two three four y z
+PUNCT	4.	sil
+PLAIN	Our	our
+PLAIN	latest	<self>
+PLAIN	project	<self>
+PLAIN	involved	<self>
+PLAIN	calculating	<self>
+PLAIN	the	<self>
+LETTERS	CO2	c o two
+PLAIN	emissions	<self>
+PLAIN	produced	<self>
+PLAIN	over	<self>
+PLAIN	a	<self>
+PLAIN	span	<self>
+PLAIN	of	<self>
+DECIMAL	5.8	five point eight
+PLAIN	years,	years
+PLAIN	which	<self>
+PLAIN	totaled	<self>
+PLAIN	approximately	<self>
+CARDINAL	3,750	three thousand seven hundred fifty
+PLAIN	metric	<self>
+PLAIN	tons.	tons
+CARDINAL	5.	five
+PLAIN	The	the
+PLAIN	formula	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	area	<self>
+PLAIN	of	<self>
+PLAIN	a	<self>
+PLAIN	circle	<self>
+PLAIN	is	<self>
+PLAIN	πr²	pi r squared
+PLAIN	so	<self>
+PLAIN	for	<self>
+PLAIN	a	<self>
+PLAIN	radius	<self>
+PLAIN	of	<self>
+DECIMAL	2.5	two point five
+MEASURE	meters	<self>
+PLAIN	the	<self>
+PLAIN	result	<self>
+PLAIN	would	<self>
+PLAIN	be	<self>
+PLAIN	roughly	<self>
+DECIMAL	19.63	nineteen point sixty three
+PLAIN	square	<self>
+MEASURE	meters.	meters
+PUNCT	6.	sil
+PLAIN	We	we
+PLAIN	will	<self>
+PLAIN	celebrate	<self>
+PLAIN	the	<self>
+PLAIN	launch	<self>
+PLAIN	of	<self>
+PLAIN	our	<self>
+PUNCT	app,	sil
+PLAIN	"BusyBee,"	busybee
+PLAIN	on	<self>
+DATE	11/09/2023,	the eleventh of september twenty twenty three
+PLAIN	with	<self>
+PLAIN	a	<self>
+PLAIN	giveaway	<self>
+PLAIN	of	<self>
+CARDINAL	250	two hundred fifty
+PLAIN	free	<self>
+PLAIN	subscriptions	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	first	<self>
+PUNCT	month.	sil
+CARDINAL	7	<self>
+PLAIN	The	the
+PLAIN	data	<self>
+PLAIN	shows	<self>
+PLAIN	an	<self>
+PLAIN	increase	<self>
+PLAIN	in	<self>
+LETTERS	GDP	g d p
+PLAIN	from	<self>
+MONEY	$21 trillion	twenty one trillion dollars
+PLAIN	in	<self>
+DATE	2022	twenty twenty two
+PLAIN	to	<self>
+PLAIN	an	<self>
+PLAIN	estimated	<self>
+MONEY	$23 trillion	twenty three trillion dollars
+PLAIN	by	<self>
+DATE	2025	twenty twenty five
+PUNCT	,	sil
+PLAIN	reflecting	<self>
+PLAIN	a	<self>
+PLAIN	robust	<self>
+PLAIN	economic	<self>
+PLAIN	recovery	<self>
+PUNCT	.	sil
+CARDINAL	8.	eight
+PLAIN	Please	please
+PLAIN	ensure	<self>
+PLAIN	that	<self>
+PLAIN	the	<self>
+PLAIN	measurement	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	new	<self>
+PLAIN	pipeline	<self>
+PLAIN	is	<self>
+PLAIN	adjusted	<self>
+PLAIN	to	<self>
+DECIMAL	15.5	fifteen point five
+MEASURE	cm,	centimeters
+PLAIN	and	<self>
+PLAIN	don’t	don't
+PLAIN	forget	<self>
+PLAIN	to	<self>
+PLAIN	check	<self>
+PLAIN	the	<self>
+LETTERS	pH	p h
+PLAIN	levels	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	water	<self>
+PLAIN	samples.	samples
+CARDINAL	9	nine
+PLAIN	The	the
+PLAIN	email	<self>
+PLAIN	contained	<self>
+PLAIN	sensitive	<self>
+PLAIN	information	<self>
+PLAIN	including	<self>
+PLAIN	a	<self>
+PLAIN	secure	<self>
+PLAIN	link	<self>
+PUNCT	,	sil
+PLAIN	but	<self>
+PLAIN	it	<self>
+PLAIN	was	<self>
+PLAIN	erroneously	<self>
+PLAIN	sent	<self>
+PLAIN	to	<self>
+PLAIN	john.doe@abccompany.com	john dot doe at abc company dot com
+PLAIN	instead	<self>
+PLAIN	of	<self>
+PLAIN	jane.doe@example.org	jane dot doe at example dot org
+PUNCT	.	sil
+CARDINAL	10	ten
+PLAIN	In	in
+PLAIN	the	<self>
+PLAIN	last	<self>
+PLAIN	seminar	<self>
+PUNCT	,	sil
+PLAIN	we	<self>
+PLAIN	discussed	<self>
+PLAIN	the	<self>
+PLAIN	implications	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+LETTERS	B2B	b two b
+PLAIN	model	<self>
+PUNCT	,	sil
+PLAIN	especially	<self>
+PLAIN	in	<self>
+PLAIN	relation	<self>
+PLAIN	to	<self>
+PLAIN	its	<self>
+DECIMAL	75%	seventy five percent
+PLAIN	customer	<self>
+PLAIN	retention	<self>
+PLAIN	rate	<self>
+PLAIN	and	<self>
+PLAIN	the	<self>
+DECIMAL	30%	thirty percent
+PLAIN	yearly	<self>
+PLAIN	growth	<self>
+PLAIN	projections	<self>
+PUNCT	.	sil
+PLAIN	The	the
+PLAIN	report	<self>
+PLAIN	was	<self>
+PLAIN	finalized	<self>
+PLAIN	on	<self>
+DATE	11/25/2023	november twenty fifth two thousand twenty three
+PUNCT	,	sil
+PLAIN	with	<self>
+PLAIN	the	<self>
+LETTERS	KPI	k p i
+PLAIN	showing	<self>
+PLAIN	a	<self>
+CARDINAL	20%	twenty percent
+PLAIN	increase	<self>
+PLAIN	from	<self>
+LETTERS	Q3’s	q three's
+PLAIN	figures	<self>
+PUNCT	.	sil
+CARDINAL	2.	two
+PLAIN	To	to
+PLAIN	contact	<self>
+PLAIN	the	<self>
+PLAIN	support	<self>
+PLAIN	team,	team
+PLAIN	please	<self>
+PLAIN	dial	<self>
+TELEPHONE	1-800-555-0199	one eight hundred five five five zero one nine nine
+PLAIN	and	<self>
+PLAIN	reference	<self>
+PLAIN	case	<self>
+LETTERS	#A123B45.	case a one two three b four five
+CARDINAL	3.	three
+PLAIN	After	after
+PLAIN	analyzing	<self>
+PLAIN	the	<self>
+PLAIN	data,	data
+PLAIN	we	<self>
+PLAIN	found	<self>
+PLAIN	that	<self>
+CARDINAL	65%	sixty five percent
+PLAIN	of	<self>
+PLAIN	users	<self>
+PLAIN	preferred	<self>
+PLAIN	the	<self>
+PLAIN	app’s	app's
+PLAIN	new	<self>
+PLAIN	feature	<self>
+PLAIN	labeled	<self>
+LETTERS	UX/20.	u x slash twenty
+PUNCT	4.	sil
+PLAIN	The	the
+PLAIN	chemical	<self>
+PLAIN	formula	<self>
+LETTERS	NaCl	n a c l
+PLAIN	is	<self>
+PLAIN	an	<self>
+PLAIN	essential	<self>
+PLAIN	compound	<self>
+PLAIN	used	<self>
+PLAIN	in	<self>
+PLAIN	various	<self>
+PLAIN	industries,	industries
+PLAIN	measured	<self>
+PLAIN	in	<self>
+PLAIN	grams	<self>
+PLAIN	per	<self>
+PLAIN	liter	<self>
+PUNCT	(g/L).	sil
+CARDINAL	5	five
+PLAIN	In	in
+PLAIN	the	<self>
+PLAIN	meeting	<self>
+PUNCT	,	sil
+PLAIN	we	<self>
+PLAIN	discussed	<self>
+PLAIN	the	<self>
+PLAIN	fiscal	<self>
+PLAIN	year	<self>
+PLAIN	projections	<self>
+PUNCT	,	sil
+PLAIN	estimating	<self>
+PLAIN	revenues	<self>
+PLAIN	to	<self>
+PLAIN	reach	<self>
+MONEY	$5M	five million dollars
+PLAIN	by	<self>
+LETTERS	FY24	f y twenty four
+PUNCT	.	sil
+CARDINAL	6.	six
+PLAIN	The	the
+PLAIN	weather	<self>
+PLAIN	forecast	<self>
+PLAIN	predicts	<self>
+PLAIN	a	<self>
+PLAIN	high	<self>
+PLAIN	of	<self>
+MEASURE	92°F	ninety two degrees fahrenheit
+PLAIN	and	<self>
+PLAIN	a	<self>
+PLAIN	low	<self>
+PLAIN	of	<self>
+MEASURE	70°F	seventy degrees fahrenheit
+PLAIN	with	<self>
+PLAIN	a	<self>
+CARDINAL	10%	ten percent
+PLAIN	chance	<self>
+PLAIN	of	<self>
+PLAIN	precipitation	<self>
+PLAIN	tomorrow	<self>
+DATE	10/12	october twelfth
+PUNCT	.	sil
+CARDINAL	7	seven
+PLAIN	During	during
+PLAIN	the	<self>
+PLAIN	webinar	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	speaker	<self>
+PLAIN	used	<self>
+PLAIN	the	<self>
+PLAIN	acronym	<self>
+LETTERS	"IoT"	IoT
+PLAIN	repeatedly	<self>
+PLAIN	while	<self>
+PLAIN	explaining	<self>
+PLAIN	the	<self>
+PLAIN	implications	<self>
+PLAIN	for	<self>
+PLAIN	smart	<self>
+PLAIN	homes	<self>
+PUNCT	.	sil
+CARDINAL	8.	eight
+PLAIN	Please	please
+PLAIN	review	<self>
+PLAIN	the	<self>
+PLAIN	document	<self>
+PLAIN	titled	<self>
+LETTERS	"SOP_DOC_V1.3"	s o p underscore d o c underscore v one dot three
+PLAIN	to	<self>
+PLAIN	ensure	<self>
+PLAIN	compliance	<self>
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	ISO	iso
+CARDINAL	9001	nine thousand one
+PLAIN	standards.	standards
+CARDINAL	9.	nine
+PLAIN	Our	our
+PLAIN	team	<self>
+PLAIN	aims	<self>
+PLAIN	to	<self>
+PLAIN	complete	<self>
+PLAIN	the	<self>
+PLAIN	project	<self>
+PLAIN	by	<self>
+PLAIN	the	<self>
+PLAIN	end	<self>
+PLAIN	of	<self>
+LETTERS	Q4	q four
+PUNCT	,	sil
+PLAIN	while	<self>
+PLAIN	maintaining	<self>
+PLAIN	an	<self>
+PLAIN	average	<self>
+PLAIN	velocity	<self>
+PLAIN	of	<self>
+CARDINAL	42	forty two
+PLAIN	story	<self>
+PLAIN	points	<self>
+PLAIN	per	<self>
+PLAIN	sprint.	sprint
+CARDINAL	10.	ten
+PLAIN	The	the
+PLAIN	dataset	<self>
+PLAIN	includes	<self>
+PLAIN	various	<self>
+PLAIN	metrics,	metrics
+PLAIN	such	<self>
+PLAIN	as	<self>
+PLAIN	engagement	<self>
+PLAIN	rate	<self>
+LETTERS	(ER),	e r
+PLAIN	click-through	<self>
+PLAIN	rate	<self>
+LETTERS	(CTR),	c t r
+PLAIN	and	<self>
+PLAIN	a	<self>
+PLAIN	conversion	<self>
+PLAIN	rate	<self>
+PLAIN	of	<self>
+DECIMAL	3.5%.	three point five percent
+PLAIN	The	the
+PLAIN	project	<self>
+LETTERS	ID,	i d sil
+LETTERS	A1B2C3,	a 1 b 2 c 3 sil
+PLAIN	was	<self>
+PLAIN	submitted	<self>
+PLAIN	on	<self>
+DATE	04/15/2023,	april fifteenth twenty twenty three sil
+PLAIN	ahead	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	deadline	<self>
+PLAIN	for	<self>
+LETTERS	R&D	r and d
+PLAIN	proposals.	proposals sil
+CARDINAL	2	two
+PLAIN	Please	please
+PLAIN	confirm	<self>
+PLAIN	the	<self>
+PLAIN	shipment	<self>
+PLAIN	of	<self>
+CARDINAL	2500	two thousand five hundred
+PLAIN	units	<self>
+PLAIN	at	<self>
+PLAIN	a	<self>
+MONEY	$150.75	one hundred fifty dollars and seventy five cents
+PLAIN	each	<self>
+PUNCT	,	sil
+PLAIN	according	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+LETTERS	PO	p o
+LETTERS	#56789	number five six seven eight nine
+PUNCT	.	sil
+CARDINAL	3.	three
+PLAIN	The	the
+PLAIN	meeting	<self>
+PLAIN	scheduled	<self>
+PLAIN	for	<self>
+CARDINAL	3	three
+PLAIN	PM	<self>
+PLAIN	on	<self>
+DATE	09/30/2023	September thirtieth twenty twenty three
+PLAIN	will	<self>
+PLAIN	cover	<self>
+PLAIN	the	<self>
+LETTERS	KPI	k p i
+PLAIN	metrics	<self>
+PLAIN	derived	<self>
+PLAIN	from	<self>
+PLAIN	the	<self>
+LETTERS	Q2	Q two
+DATE	2023	twenty twenty three
+PLAIN	report.	report
+CARDINAL	4.	four
+PLAIN	To	to
+PLAIN	access	<self>
+PLAIN	the	<self>
+PLAIN	database,	database
+PLAIN	use	<self>
+PLAIN	the	<self>
+PLAIN	username	<self>
+LETTERS	JDoe88	j doe eight eight
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	encrypted	<self>
+PLAIN	password	<self>
+LETTERS	96&xF@i2,	ninety six and x f at i two
+PLAIN	which	<self>
+PLAIN	expires	<self>
+PLAIN	in	<self>
+CARDINAL	14	fourteen
+PLAIN	days.	days
+CARDINAL	5.	five
+PLAIN	Make	make
+PLAIN	sure	<self>
+PLAIN	to	<self>
+PLAIN	include	<self>
+PLAIN	the	<self>
+LETTERS	5G	<self>
+PLAIN	network	<self>
+PLAIN	specifications	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	final	<self>
+PLAIN	presentation	<self>
+PLAIN	alongside	<self>
+PLAIN	the	<self>
+LETTERS	ROI	r o i
+PLAIN	percentage	<self>
+PLAIN	of	<self>
+CARDINAL	25%	twenty five percent
+PUNCT	.	sil
+CARDINAL	6	six
+PLAIN	During	during
+PLAIN	the	<self>
+PLAIN	conference	<self>
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	guest	<self>
+PLAIN	speaker	<self>
+PUNCT	,	sil
+PLAIN	Dr.	dr
+PLAIN	Samantha	samantha
+PLAIN	O'Neill	o'neill
+PUNCT	,	sil
+PLAIN	will	<self>
+PLAIN	present	<self>
+PLAIN	her	<self>
+PLAIN	findings	<self>
+PLAIN	on	<self>
+LETTERS	AI	a i
+PLAIN	applications	<self>
+PLAIN	in	<self>
+PLAIN	healthcare	<self>
+PLAIN	using	<self>
+PLAIN	the	<self>
+PLAIN	latest	<self>
+LETTERS	ML	m l
+PLAIN	algorithms.	algorithms
+PUNCT	.	sil
+PUNCT	7.	sil
+PLAIN	The	the
+PLAIN	flight	<self>
+PLAIN	number	<self>
+LETTERS	AB1234	a b one two three four
+PLAIN	to	<self>
+LETTERS	SF-LAX	s f - l a x
+PLAIN	departs	<self>
+PLAIN	at	<self>
+CARDINAL	10:45	ten forty five
+LETTERS	AM	a m
+PLAIN	and	<self>
+PLAIN	is	<self>
+PLAIN	expected	<self>
+PLAIN	to	<self>
+PLAIN	arrive	<self>
+PLAIN	in	<self>
+CARDINAL	2h	two hours
+CARDINAL	30m	thirty minutes
+PLAIN	barring	<self>
+PLAIN	any	<self>
+PUNCT	delays.	sil
+PUNCT	8.	sil
+PLAIN	For	for
+PLAIN	the	<self>
+PLAIN	experiment,	experiment
+PLAIN	mix	<self>
+MEASURE	3.5mL	three point five milliliters
+PLAIN	of	<self>
+PLAIN	Solution	solution
+PLAIN	A	a
+LETTERS	(H2O2)	h two o two
+PLAIN	with	<self>
+CARDINAL	100ppm	one hundred parts per million
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	catalyst	<self>
+PLAIN	under	<self>
+PLAIN	atmospheric	<self>
+PLAIN	conditions	<self>
+PLAIN	at	<self>
+MEASURE	25°C.	twenty five degrees celsius
+PUNCT	9.	sil
+PLAIN	The	the
+PLAIN	budget	<self>
+PLAIN	allocation	<self>
+PLAIN	for	<self>
+LETTERS	FY2024	f y twenty twenty four
+PLAIN	is	<self>
+PLAIN	set	<self>
+PLAIN	at	<self>
+MONEY	$1.75M	one point seventy five million dollars
+PUNCT	,	sil
+PLAIN	which	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+CARDINAL	15%	fifteen percent
+PLAIN	increase	<self>
+PLAIN	compared	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	previous	<self>
+PLAIN	fiscal	<self>
+PLAIN	year.	year
+CARDINAL	10	ten
+PLAIN	Please	please
+PLAIN	dial	<self>
+TELEPHONE	(555)	five hundred fifty five
+TELEPHONE	123-4567	one hundred twenty three dash four five six seven
+PLAIN	to	<self>
+PLAIN	reach	<self>
+PLAIN	customer	<self>
+PLAIN	support	<self>
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	have	<self>
+PLAIN	your	<self>
+PLAIN	order	<self>
+PLAIN	confirmation	<self>
+PLAIN	number	<self>
+LETTERS	ABCD-1234	a b c d dash one two three four
+PLAIN	ready	<self>
+PLAIN	for	<self>
+PLAIN	reference	<self>
+PUNCT	.	sil
+PLAIN	The	the
+PLAIN	meeting	<self>
+PLAIN	is	<self>
+PLAIN	scheduled	<self>
+PLAIN	for	<self>
+CARDINAL	12:30	twelve thirty
+LETTERS	PM	p m
+PLAIN	on	<self>
+DATE	11/21/2023	november twenty first two thousand twenty three
+PUNCT	,	sil
+PLAIN	where	<self>
+PLAIN	we	<self>
+PLAIN	will	<self>
+PLAIN	discuss	<self>
+PLAIN	the	<self>
+LETTERS	Q4	q four
+PLAIN	financial	<self>
+PLAIN	projections	<self>
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	impact	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+LETTERS	CPI	c p i
+PLAIN	increase	<self>
+PUNCT	.	sil
+CARDINAL	2	two
+PLAIN	Please	please
+PLAIN	remember	<self>
+PLAIN	to	<self>
+PLAIN	send	<self>
+PLAIN	the	<self>
+PLAIN	report	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+LETTERS	R&D	r and d
+PLAIN	outcomes	<self>
+PLAIN	related	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+LETTERS	AI	a i
+PLAIN	model	<self>
+PLAIN	enhancements	<self>
+PLAIN	by	<self>
+PUNCT	5:00	five o'clock
+LETTERS	PM	p m
+LETTERS	EST	e s t
+PLAIN	Friday	friday
+PUNCT	.	sil
+CARDINAL	3.	three sil
+PLAIN	In	in
+PLAIN	our	<self>
+PLAIN	last	<self>
+PLAIN	conversation,	conversation sil
+PLAIN	we	<self>
+PLAIN	mentioned	<self>
+PLAIN	the	<self>
+PLAIN	need	<self>
+PLAIN	to	<self>
+PLAIN	analyze	<self>
+PLAIN	the	<self>
+LETTERS	KPI	k p i
+PLAIN	metrics,	metrics sil
+PLAIN	specifically	<self>
+PLAIN	the	<self>
+DECIMAL	95%	ninety five percent
+PLAIN	confidence	<self>
+PLAIN	interval	<self>
+PLAIN	and	<self>
+PLAIN	the	<self>
+DECIMAL	22%	twenty two percent
+PLAIN	growth	<self>
+PLAIN	rate	<self>
+PLAIN	year-over-year.	year over year sil
+PUNCT	4.	sil
+PLAIN	The	the
+PLAIN	product	<self>
+PLAIN	code,	code
+LETTERS	XG-2001-AZ,	x g two thousand one a z
+PLAIN	will	<self>
+PLAIN	be	<self>
+PLAIN	discontinued	<self>
+PLAIN	next	<self>
+PLAIN	month,	month
+PLAIN	requiring	<self>
+PLAIN	us	<self>
+PLAIN	to	<self>
+PLAIN	transition	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	new	<self>
+PLAIN	series	<self>
+PLAIN	of	<self>
+PLAIN	models,	models
+PLAIN	starting	<self>
+PLAIN	with	<self>
+PLAIN	the	<self>
+LETTERS	YF-3000-BB.	y f three thousand
+CARDINAL	5	five
+PLAIN	My	my
+PLAIN	allocation	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	project	<self>
+PLAIN	budget	<self>
+PLAIN	is	<self>
+MONEY	$2,500	two thousand five hundred dollars
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	I	i
+PLAIN	expect	<self>
+PLAIN	the	<self>
+PLAIN	delivery	<self>
+PLAIN	of	<self>
+PLAIN	materials	<self>
+PLAIN	within	<self>
+CARDINAL	14	fourteen
+PLAIN	business	<self>
+PLAIN	days	<self>
+PUNCT	,	sil
+PLAIN	as	<self>
+PLAIN	per	<self>
+PLAIN	the	<self>
+PLAIN	6-sigma	six sigma
+PLAIN	protocol	<self>
+PUNCT	.	sil
+PUNCT	6.	sil
+PLAIN	With	with
+PLAIN	the	<self>
+PLAIN	recent	<self>
+PLAIN	updates	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+LETTERS	GDPR	gdpr
+PLAIN	and	<self>
+LETTERS	CCPA	ccpa
+PLAIN	regulations,	regulations
+PLAIN	ensure	<self>
+PLAIN	that	<self>
+PLAIN	all	<self>
+PLAIN	data	<self>
+PLAIN	handling	<self>
+PLAIN	processes	<self>
+PLAIN	are	<self>
+PLAIN	compliant	<self>
+PLAIN	by	<self>
+DATE	03/15/2024.	march fifteenth twenty twenty four
+PUNCT	7.	sil
+PLAIN	The	the
+PLAIN	conference	<self>
+PLAIN	call	<self>
+LETTERS	ID	i d
+PLAIN	is	<self>
+TELEPHONE	879-456-322	eight hundred seventy nine dash four hundred fifty six dash three hundred twenty two
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	passcode	<self>
+PLAIN	to	<self>
+PLAIN	enter	<self>
+PLAIN	the	<self>
+PLAIN	virtual	<self>
+PLAIN	room	<self>
+PLAIN	is	<self>
+LETTERS	ABCD-1234.	ABCD-1234
+CARDINAL	8.	eight
+PLAIN	We	we
+PLAIN	need	<self>
+PLAIN	to	<self>
+PLAIN	evaluate	<self>
+PLAIN	the	<self>
+LETTERS	ROI	r o i
+PLAIN	of	<self>
+PLAIN	our	<self>
+PLAIN	last	<self>
+PLAIN	campaign,	campaign
+PLAIN	particularly	<self>
+PLAIN	focusing	<self>
+PLAIN	on	<self>
+PLAIN	impressions,	impressions
+LETTERS	CTR,	c t r
+PLAIN	and	<self>
+PLAIN	the	<self>
+PLAIN	overall	<self>
+PLAIN	conversion	<self>
+PLAIN	rate	<self>
+PLAIN	of	<self>
+DECIMAL	7.5%	seven point five percent
+PUNCT	.	sil
+CARDINAL	9.	nine
+PLAIN	Don't	don't
+PLAIN	forget	<self>
+PLAIN	to	<self>
+PLAIN	register	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	upcoming	<self>
+PLAIN	webinar	<self>
+PLAIN	on	<self>
+LETTERS	SaaS	saas
+PLAIN	solutions	<self>
+PLAIN	scheduled	<self>
+PLAIN	for	<self>
+DATE	03:00	three o'clock
+LETTERS	UTC	u t c
+PLAIN	this	<self>
+DATE	Thursday	thursday
+PUNCT	,	sil
+PLAIN	which	<self>
+PLAIN	will	<self>
+PLAIN	cover	<self>
+PLAIN	topics	<self>
+PLAIN	like	<self>
+LETTERS	DevOps	devops
+PLAIN	and	<self>
+LETTERS	CI/CD	c i slash c d
+PLAIN	pipelines.	pipelines
+CARDINAL	10	ten
+PLAIN	For	for
+PLAIN	the	<self>
+PLAIN	science	<self>
+PLAIN	project	<self>
+PLAIN	please	<self>
+PLAIN	include	<self>
+PLAIN	the	<self>
+PLAIN	measurements	<self>
+PLAIN	in	<self>
+PLAIN	both	<self>
+PLAIN	metric	<self>
+PLAIN	and	<self>
+PLAIN	imperial	<self>
+PLAIN	such	<self>
+PLAIN	as	<self>
+CARDINAL	25	twenty five
+MEASURE	cm	centimeters
+PLAIN	which	<self>
+PLAIN	is	<self>
+PLAIN	approximately	<self>
+DECIMAL	9.84	nine point eight four
+MEASURE	inches	<self>
+PLAIN	alongside	<self>
+PLAIN	the	<self>
+PLAIN	necessary	<self>
+PLAIN	chemical	<self>
+PLAIN	formulas	<self>
+PUNCT	.	sil
+PUNCT	1.	sil
+PLAIN	The	the
+PLAIN	conference	<self>
+PLAIN	will	<self>
+PLAIN	begin	<self>
+PLAIN	on	<self>
+DATE	03/15/2024	march fifteenth twenty twenty four
+PLAIN	at	<self>
+CARDINAL	9:00	nine o'clock
+LETTERS	AM	a m
+PUNCT	,	sil
+PLAIN	featuring	<self>
+PLAIN	keynote	<self>
+PLAIN	speakers	<self>
+PLAIN	from	<self>
+PLAIN	NASA	nasa
+PLAIN	and	<self>
+PLAIN	IBM	<self>
+PUNCT	.	sil
+CARDINAL	2.	two
+PLAIN	Please	please
+PLAIN	send	<self>
+PLAIN	your	<self>
+LETTERS	RSVP	r s v p
+PLAIN	to	<self>
+PLAIN	info@xyz.com	info at x y z dot com
+PUNCT	,	sil
+PLAIN	including	<self>
+PLAIN	your	<self>
+PLAIN	status	<self>
+PLAIN	as	<self>
+PLAIN	an	<self>
+LETTERS	R&D	r and d
+PLAIN	participant	<self>
+PLAIN	and	<self>
+PLAIN	your	<self>
+PLAIN	preferred	<self>
+PLAIN	workshop	<self>
+PLAIN	sessions:	sessions
+LETTERS	AI	a i
+PUNCT	,	sil
+LETTERS	ML	m l
+PUNCT	,	sil
+PLAIN	or	<self>
+LETTERS	IoT.	i o t
+sil	 	sil
+CARDINAL	3	three
+PLAIN	The	the
+PLAIN	temperature	<self>
+PLAIN	reached	<self>
+PLAIN	an	<self>
+PLAIN	extraordinary	<self>
+MEASURE	98.6°F	ninety eight point six degrees fahrenheit
+PLAIN	yesterday	<self>
+PUNCT	,	sil
+PLAIN	breaking	<self>
+PLAIN	the	<self>
+PLAIN	previous	<self>
+PLAIN	record	<self>
+PLAIN	of	<self>
+MEASURE	97.9°F	ninety seven point nine degrees fahrenheit
+PLAIN	established	<self>
+PLAIN	in	<self>
+DATE	2019	two thousand nineteen
+PUNCT	.	sil
+CARDINAL	4.	four
+PLAIN	Our	our
+PLAIN	sales	<self>
+PLAIN	target	<self>
+PLAIN	for	<self>
+LETTERS	Q4	q four
+PLAIN	was	<self>
+PLAIN	meticulously	<self>
+PLAIN	calculated,	calculated
+PLAIN	aiming	<self>
+PLAIN	for	<self>
+PLAIN	an	<self>
+PLAIN	incremental	<self>
+PLAIN	increase	<self>
+PLAIN	of	<self>
+MONEY	25%	twenty five percent
+PLAIN	over	<self>
+PLAIN	last	<self>
+PLAIN	year’s	year's
+MONEY	$2.5M	two point five million dollars
+PUNCT	.	sil
+CARDINAL	5	five
+PLAIN	According	according
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	formula	<self>
+LETTERS	E=mc²	e equals m c squared
+PLAIN	energy	<self>
+PLAIN	is	<self>
+PLAIN	equal	<self>
+PLAIN	to	<self>
+PLAIN	mass	<self>
+PLAIN	multiplied	<self>
+PLAIN	by	<self>
+PLAIN	the	<self>
+PLAIN	speed	<self>
+PLAIN	of	<self>
+PLAIN	light	<self>
+PLAIN	squared	<self>
+PUNCT	,	sil
+PLAIN	a	<self>
+PLAIN	concept	<self>
+PLAIN	pivotal	<self>
+PLAIN	in	<self>
+PLAIN	modern	<self>
+PLAIN	physics	<self>
+PUNCT	.	sil
+CARDINAL	6.	six
+PLAIN	The	the
+PLAIN	stock	<self>
+PLAIN	price	<self>
+PLAIN	for	<self>
+PLAIN	ACME	acme
+PLAIN	Corp	corp
+PLAIN	surged	<self>
+PLAIN	to	<self>
+MONEY	$150.25	one hundred fifty dollars and twenty five cents
+PLAIN	on	<self>
+DATE	Monday	monday
+PUNCT	,	sil
+PLAIN	which	<self>
+PLAIN	is	<self>
+PLAIN	a	<self>
+PLAIN	5%	five percent
+PLAIN	increase	<self>
+PLAIN	from	<self>
+PLAIN	its	<self>
+PLAIN	previous	<self>
+PLAIN	closing	<self>
+PLAIN	of	<self>
+MONEY	$142.50	one hundred forty two dollars and fifty cents
+PUNCT	.	sil
+CARDINAL	7	seven
+PLAIN	The	the
+PLAIN	experiment	<self>
+PLAIN	measured	<self>
+PLAIN	the	<self>
+LETTERS	pH	p h
+PLAIN	level	<self>
+PLAIN	at	<self>
+DECIMAL	7.4	seven point four
+PUNCT	,	sil
+PLAIN	with	<self>
+PLAIN	a	<self>
+PLAIN	standard	<self>
+PLAIN	deviation	<self>
+PLAIN	of	<self>
+DECIMAL	0.1	zero point one
+PUNCT	,	sil
+PLAIN	indicating	<self>
+PLAIN	a	<self>
+PLAIN	statistically	<self>
+PLAIN	significant	<self>
+PLAIN	result	<self>
+PUNCT	.	sil
+CARDINAL	8	eight
+PLAIN	To	to
+PLAIN	dial	<self>
+PLAIN	the	<self>
+PLAIN	international	<self>
+PLAIN	number	<self>
+PUNCT	,	sil
+PLAIN	please	<self>
+PLAIN	use	<self>
+TELEPHONE	+1-800-555-0199	plus one eight hundred fifty five zero one nine nine
+PUNCT	,	sil
+PLAIN	followed	<self>
+PLAIN	by	<self>
+PLAIN	your	<self>
+PLAIN	personal	<self>
+PLAIN	code	<self>
+PLAIN	of	<self>
+CARDINAL	1234#	one two three four sil
+PLAIN	to	<self>
+PLAIN	access	<self>
+PLAIN	the	<self>
+PLAIN	system	<self>
+PUNCT	.	sil
+CARDINAL	9	nine
+PLAIN	During	during
+PLAIN	yesterday's	<self>
+PLAIN	webinar	<self>
+PUNCT	,	sil
+PLAIN	participants	<self>
+PLAIN	discussed	<self>
+PLAIN	the	<self>
+PLAIN	impacts	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+LETTERS	GDP	g d p
+PLAIN	dropping	<self>
+PLAIN	to	<self>
+DECIMAL	3.2%	three point two percent
+PLAIN	and	<self>
+PLAIN	what	<self>
+PLAIN	it	<self>
+PLAIN	means	<self>
+PLAIN	for	<self>
+PLAIN	economic	<self>
+PLAIN	recovery	<self>
+PUNCT	.	sil
+CARDINAL	10	ten
+PLAIN	The	the
+PLAIN	product's	<self>
+PLAIN	dimensions	<self>
+PLAIN	are	<self>
+DECIMAL	15.5	fifteen point five
+MEASURE	cm	centimeters
+PUNCT	x	sil
+DECIMAL	20.3	twenty point three
+MEASURE	cm	centimeters
+PUNCT	x	sil
+DECIMAL	7.8	seven point eight
+MEASURE	cm	centimeters
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	it's	it is
+PLAIN	packaged	<self>
+PLAIN	in	<self>
+PLAIN	a	<self>
+PLAIN	cardboard	<self>
+PLAIN	box	<self>
+PLAIN	weighing	<self>
+DECIMAL	1.2	one point two
+MEASURE	kg	kilograms
+PLAIN	for	<self>
+PLAIN	shipping	<self>
+PUNCT	.	sil
+PLAIN	The	the
+PLAIN	meeting	<self>
+PLAIN	is	<self>
+PLAIN	scheduled	<self>
+PLAIN	for	<self>
+TIME	14:30	two fourteen thirty
+LETTERS	EST	est
+PLAIN	on	<self>
+DATE	09/15/2023	September fifteenth two thousand and twenty three
+PLAIN	to	<self>
+PLAIN	discuss	<self>
+PLAIN	the	<self>
+LETTERS	R&D	r and d
+PLAIN	phase	<self>
+PLAIN	of	<self>
+PLAIN	the	<self>
+LETTERS	AI-ML	ai ml
+PLAIN	project,	project
+PLAIN	specifically	<self>
+PLAIN	addressing	<self>
+LETTERS	KPI	k p i
+CARDINAL	5	five
+PLAIN	and	<self>
+LETTERS	ROI	r o i
+PLAIN	metrics.	metrics
+PUNCT	2.	sil
+PLAIN	The	the
+PLAIN	formula	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	compound	<self>
+PUNCT	interest,	sil
+PLAIN	A	a
+PUNCT	=	sil
+PLAIN	P(1	p left parenthesis one
+PUNCT	+	sil
+LETTERS	r/n	r slash n
+PLAIN	)^(nt)	right parenthesis raised to the nt
+PUNCT	,	sil
+PLAIN	will	<self>
+PLAIN	be	<self>
+PLAIN	recalculated	<self>
+PLAIN	every	<self>
+PLAIN	quarter	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	next	<self>
+CARDINAL	5	five
+PLAIN	years.	years
+CARDINAL	3.	three
+PLAIN	Please	please
+PLAIN	dial	<self>
+TELEPHONE	1-800-555-0199	one eight hundred five five five zero one nine nine
+PLAIN	to	<self>
+PLAIN	access	<self>
+PLAIN	the	<self>
+PLAIN	customer	<self>
+PLAIN	service	<self>
+PUNCT	portal;	sil
+PLAIN	be	<self>
+PLAIN	ready	<self>
+PLAIN	to	<self>
+PLAIN	provide	<self>
+PLAIN	your	<self>
+PLAIN	order	<self>
+LETTERS	ID:	id
+PUNCT	#AB123C456.	sil
+PUNCT	4.	sil
+PLAIN	The	the
+LETTERS	U.N.	u n
+PLAIN	resolution	<self>
+DATE	2023/45	twenty twenty three slash forty five
+PLAIN	calls	<self>
+PLAIN	for	<self>
+PLAIN	an	<self>
+PLAIN	immediate	<self>
+PLAIN	ceasefire	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	region	<self>
+PLAIN	affected	<self>
+PLAIN	by	<self>
+PLAIN	the	<self>
+DECIMAL	12.5	twelve point five
+PLAIN	million	<self>
+PLAIN	dollar	<self>
+PLAIN	crisis.	crisis
+CARDINAL	5.	five
+PLAIN	Scientists	scientists
+PLAIN	reported	<self>
+PLAIN	that	<self>
+CARDINAL	97%	ninety seven percent
+PLAIN	of	<self>
+PLAIN	the	<self>
+PLAIN	samples	<self>
+PLAIN	tested	<self>
+PLAIN	positive	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+LETTERS	COVID-19	covid nineteen
+PLAIN	variant	<self>
+LETTERS	XBB.1.5	x b b point one point five
+PLAIN	during	<self>
+PLAIN	the	<self>
+PLAIN	clinical	<self>
+PLAIN	trials	<self>
+PLAIN	conducted	<self>
+PLAIN	in	<self>
+DATE	July	july
+DATE	2023.	twenty twenty three
+CARDINAL	6	six
+PLAIN	By	by
+LETTERS	Q4	q four
+CARDINAL	2022	twenty twenty two
+PUNCT	,	sil
+PLAIN	the	<self>
+PLAIN	company	<self>
+PLAIN	aims	<self>
+PLAIN	to	<self>
+PLAIN	reduce	<self>
+PLAIN	its	<self>
+PLAIN	carbon	<self>
+PLAIN	footprint	<self>
+PLAIN	by	<self>
+DECIMAL	15%	fifteen percent
+PLAIN	in	<self>
+PLAIN	accordance	<self>
+PLAIN	with	<self>
+PLAIN	the	<self>
+LETTERS	ISO	iso
+CARDINAL	14001	fourteen thousand one
+PLAIN	certification	<self>
+PLAIN	guidelines	<self>
+PUNCT	.	sil
+CARDINAL	7	seven
+PLAIN	The	the
+PLAIN	weather	<self>
+PLAIN	forecast	<self>
+PLAIN	predicts	<self>
+PLAIN	a	<self>
+PLAIN	high	<self>
+PLAIN	of	<self>
+MEASURE	85°F	eighty five degrees fahrenheit
+PLAIN	with	<self>
+PLAIN	a	<self>
+CARDINAL	60%	sixty percent
+PLAIN	chance	<self>
+PLAIN	of	<self>
+PLAIN	rain	<self>
+PUNCT	,	sil
+PLAIN	so	<self>
+PLAIN	remember	<self>
+PLAIN	to	<self>
+PLAIN	bring	<self>
+PLAIN	your	<self>
+CARDINAL	20	twenty
+LETTERS	oz.	ounces
+PLAIN	water	<self>
+PLAIN	bottle.	bottle
+CARDINAL	8	eight
+PLAIN	Today's	today's
+PLAIN	stock	<self>
+PLAIN	prices	<self>
+PLAIN	showed	<self>
+PLAIN	a	<self>
+PLAIN	significant	<self>
+PLAIN	increase:	increase
+LETTERS	AAPL	a a p l
+PLAIN	up	<self>
+PLAIN	by	<self>
+DECIMAL	3.4%	three point four percent
+LETTERS	TSLA	t s l a
+PLAIN	down	<self>
+PLAIN	by	<self>
+DECIMAL	1.2%	one point two percent
+PLAIN	while	<self>
+LETTERS	AMZN	a m z n
+PLAIN	stagnated	<self>
+PLAIN	at	<self>
+MONEY	$3,200.45	three thousand two hundred dollars and forty five cents
+PUNCT	.	sil
+CARDINAL	9.	nine
+PLAIN	The	the
+PLAIN	conference	<self>
+PLAIN	on	<self>
+LETTERS	P.E.	p e
+PUNCT	(Physical Education)	sil
+PLAIN	and	<self>
+LETTERS	S.T.E.M.	s t e m
+PUNCT	(Science, Technology, Engineering, and Mathematics)	sil
+PLAIN	will	<self>
+PLAIN	begin	<self>
+PLAIN	promptly	<self>
+PLAIN	at	<self>
+TIME	08:00	eight o'clock
+LETTERS	AM	a m
+PLAIN	in	<self>
+PLAIN	Hall	hall
+LETTERS	B.	b
+PUNCT	sil.	sil
+CARDINAL	10	ten
+PLAIN	Please	please
+PLAIN	submit	<self>
+PLAIN	your	<self>
+PLAIN	report	<self>
+PLAIN	in	<self>
+LETTERS	PDF	<self>
+PLAIN	format	<self>
+PUNCT	,	sil
+PLAIN	ensuring	<self>
+PLAIN	it	<self>
+PLAIN	does	<self>
+PLAIN	not	<self>
+PLAIN	exceed	<self>
+CARDINAL	2MB	two megabytes
+PLAIN	and	<self>
+PLAIN	includes	<self>
+PLAIN	references	<self>
+PLAIN	to	<self>
+PLAIN	sources	<self>
+PLAIN	dated	<self>
+PLAIN	after	<self>
+DATE	2019	two thousand nineteen
+PUNCT	.	sil
+PLAIN	The	the
+PLAIN	meeting	<self>
+PLAIN	is	<self>
+PLAIN	scheduled	<self>
+PLAIN	for	<self>
+DATE	10/15/2023	october fifteenth twenty twenty three
+PLAIN	at	<self>
+TIME	3:00	three o'clock
+LETTERS	PM	p m
+LETTERS	EST	e s t
+PLAIN	in	<self>
+PLAIN	room	<self>
+LETTERS	B12-C	b twelve c
+PUNCT	,	sil
+PLAIN	so	<self>
+PLAIN	please	<self>
+PLAIN	bring	<self>
+PLAIN	your	<self>
+LETTERS	ID	i d
+PLAIN	card	<self>
+PLAIN	for	<self>
+PLAIN	entry	<self>
+PUNCT	.	sil
+MEASURE	2.5m	two point five meters
+sil	x	sil
+MEASURE	1.75m	one point seven five meters
+sil	x	sil
+MEASURE	0.5m	zero point five meters
+sil	,	sil
+PLAIN	with	<self>
+PLAIN	a	<self>
+PLAIN	weight	<self>
+PLAIN	of	<self>
+MEASURE	5.2kg	five point two kilograms
+sil	,	sil
+PLAIN	and	<self>
+PLAIN	it	<self>
+PLAIN	operates	<self>
+PLAIN	at	<self>
+LETTER	110V	one hundred ten volts
+PLAIN	AC	ac
+sil	.	sil
+CARDINAL	3	three
+PLAIN	Our	our
+PLAIN	quarterly	<self>
+PLAIN	report	<self>
+PLAIN	indicates	<self>
+PLAIN	a	<self>
+PERCENT	15%	fifteen percent
+PLAIN	increase	<self>
+PLAIN	in	<self>
+PLAIN	revenue	<self>
+PUNCT	,	sil
+PLAIN	with	<self>
+PLAIN	total	<self>
+PLAIN	sales	<self>
+PLAIN	reaching	<self>
+MONEY	$1,250,000	one million two hundred fifty thousand dollars
+PLAIN	in	<self>
+LETTERS	Q2	q two
+LETTERS	FY23	f y twenty three
+PUNCT	.	sil
+CARDINAL	4.	four
+PLAIN	To	to
+PLAIN	reach	<self>
+PLAIN	the	<self>
+PLAIN	desired	<self>
+LETTERS	pH	p h
+PLAIN	level	<self>
+PLAIN	of	<self>
+DECIMAL	7.4,	seven point four
+PLAIN	add	<self>
+DECIMAL	0.5g	zero point five grams
+PLAIN	of	<self>
+LETTERS	NaCl	n a c l
+PLAIN	per	<self>
+PLAIN	liter	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	solution	<self>
+PLAIN	before	<self>
+PLAIN	adjusting	<self>
+PLAIN	with	<self>
+PLAIN	the	<self>
+PLAIN	buffer.	buffer
+CARDINAL	5	five
+PLAIN	For	for
+PLAIN	the	<self>
+PLAIN	project,	project
+PLAIN	we	<self>
+PLAIN	need	<self>
+PLAIN	to	<self>
+PLAIN	calculate	<self>
+PLAIN	the	<self>
+LETTERS	ROI,	ROI
+PLAIN	which	<self>
+PLAIN	is	<self>
+PUNCT	(	sil
+PLAIN	Net	net
+PLAIN	Profit	profit
+PUNCT	/	sil
+PLAIN	Cost	cost
+PLAIN	of	<self>
+PLAIN	Investment)	investment
+PLAIN	x	times
+MONEY	100%,	one hundred percent
+PLAIN	so	<self>
+PLAIN	keep	<self>
+PLAIN	your	<self>
+PLAIN	calculations	<self>
+PLAIN	handy.	handy
+PUNCT	6.	sil
+PLAIN	Attendees	attendees
+PLAIN	must	<self>
+LETTERS	RSVP	r s v p
+PLAIN	by	<self>
+CARDINAL	9	nine
+LETTERS	AM	a m
+PLAIN	on	<self>
+DATE	12/31/2023	twelve thirty one twenty twenty three
+PLAIN	and	<self>
+PLAIN	confirm	<self>
+PLAIN	their	<self>
+PLAIN	preference	<self>
+PLAIN	for	<self>
+PLAIN	either	<self>
+PLAIN	the	<self>
+PLAIN	vegetarian	<self>
+PLAIN	or	<self>
+PLAIN	gluten-free	<self>
+PLAIN	meal	<self>
+PUNCT	option.	sil
+CARDINAL	7	seven
+PLAIN	The	the
+PLAIN	shipment	<self>
+PLAIN	tracking	<self>
+PLAIN	number	<self>
+PLAIN	is	<self>
+LETTERS	1Z999AA10123456784	one z nine nine nine a a one zero one two three four five six seven eight four
+PUNCT	,	sil
+PLAIN	and	<self>
+PLAIN	you	<self>
+PLAIN	can	<self>
+PLAIN	monitor	<self>
+PLAIN	its	<self>
+PLAIN	progress	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	FedEx	<self>
+PLAIN	website	<self>
+PUNCT	.	sil
+CARDINAL	8.	eight
+PLAIN	The	the
+PLAIN	Wi-Fi	wi-fi
+PLAIN	password	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+PLAIN	conference	<self>
+PLAIN	room	<self>
+PLAIN	is	<self>
+LETTERS	H3#R5%!Z9xL2	h three hash r five percent exclamation mark z nine x l two
+PLAIN	case-sensitive	<self>
+PLAIN	so	<self>
+PLAIN	write	<self>
+PLAIN	it	<self>
+PLAIN	down	<self>
+PLAIN	if	<self>
+PLAIN	you	<self>
+PLAIN	need	<self>
+PLAIN	connectivity.	connectivity
+CARDINAL	9	nine
+PLAIN	In	in
+PLAIN	the	<self>
+PLAIN	new	<self>
+PLAIN	software	<self>
+PLAIN	update	<self>
+DECIMAL	v2.4.1	v two point four point one
+PLAIN	several	<self>
+PLAIN	bugs	<self>
+PLAIN	were	<self>
+PLAIN	fixed	<self>
+PUNCT	,	sil
+PLAIN	including	<self>
+PLAIN	the	<self>
+PLAIN	infamous	<self>
+CARDINAL	404	four oh four
+PLAIN	error	<self>
+PLAIN	that	<self>
+PLAIN	appears	<self>
+PLAIN	randomly	<self>
+PUNCT	.	sil
+CARDINAL	10	ten
+PLAIN	The	the
+PLAIN	firmware	<self>
+PLAIN	version	<self>
+DECIMAL	3.20	three point two
+PLAIN	on	<self>
+PLAIN	device	<self>
+LETTERS	SN-123456789	s n one two three four five six seven eight nine
+PLAIN	must	<self>
+PLAIN	be	<self>
+PLAIN	updated	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	latest	<self>
+PLAIN	patch	<self>
+PLAIN	by	<self>
+DATE	11/01/2023	november first two thousand twenty three
+PLAIN	to	<self>
+PLAIN	maintain	<self>
+PLAIN	security	<self>
+PLAIN	compliance	<self>
+PUNCT	.	sil
+PLAIN	The	the
+LETTERS	M.D.	m d
+PLAIN	advised	<self>
+PLAIN	that	<self>
+PLAIN	my	<self>
+LETTERS	BMI	b m i
+PLAIN	of	<self>
+DECIMAL	24.5	twenty four point five
+PLAIN	is	<self>
+PLAIN	within	<self>
+PLAIN	the	<self>
+PLAIN	normal	<self>
+PLAIN	range,	range
+PLAIN	but	<self>
+PLAIN	I	<self>
+PLAIN	should	<self>
+PLAIN	still	<self>
+PLAIN	consider	<self>
+PLAIN	exercising	<self>
+CARDINAL	150	one hundred fifty
+PLAIN	minutes	<self>
+PLAIN	weekly.	weekly
+CARDINAL	2.	two
+PLAIN	At	at
+TIME	10:30	ten thirty
+PLAIN	a.m.	a m
+PLAIN	on	<self>
+DATE	03/12/2022	third of december twenty twenty two
+PUNCT	,	sil
+PLAIN	we	<self>
+PLAIN	discussed	<self>
+PLAIN	the	<self>
+LETTERS	KPI	k p i
+PLAIN	metrics,	metrics
+PLAIN	focusing	<self>
+PLAIN	on	<self>
+PLAIN	a	<self>
+PLAIN	yearly	<self>
+PLAIN	growth	<self>
+PLAIN	rate	<self>
+PLAIN	of	<self>
+DECIMAL	15%	fifteen percent
+PLAIN	in	<self>
+LETTERS	Q2.	q two
+PUNCT	3.	sil
+PLAIN	The	the
+PLAIN	formula	<self>
+PLAIN	for	<self>
+PLAIN	calculating	<self>
+PLAIN	the	<self>
+PLAIN	velocity,	velocity
+LETTERS	v	<self>
+PUNCT	=	sil
+LETTERS	d	<self>
+PUNCT	/	sil
+LETTERS	t,	t
+PLAIN	where	<self>
+LETTERS	d	<self>
+PLAIN	equals	<self>
+CARDINAL	120	one hundred twenty
+LETTERS	m	<self>
+PLAIN	and	<self>
+LETTERS	t	<self>
+PLAIN	is	<self>
+CARDINAL	6	six
+LETTERS	s,	s
+PLAIN	was	<self>
+PLAIN	derived	<self>
+PLAIN	from	<self>
+PLAIN	basic	<self>
+PLAIN	physics	<self>
+PLAIN	principles.	principles
+CARDINAL	4.	four
+PLAIN	Our	our
+PLAIN	team	<self>
+PLAIN	is	<self>
+PLAIN	working	<self>
+PLAIN	on	<self>
+PLAIN	the	<self>
+PLAIN	ASAP	asap
+PLAIN	project,	project
+PLAIN	aiming	<self>
+PLAIN	to	<self>
+PLAIN	finalize	<self>
+PLAIN	the	<self>
+LETTERS	R&D	r and d
+PLAIN	report	<self>
+PLAIN	by	<self>
+LETTERS	Q4	q four
+CARDINAL	2023	twenty twenty three
+PLAIN	while	<self>
+PLAIN	adhering	<self>
+PLAIN	to	<self>
+PLAIN	the	<self>
+PLAIN	ISO	iso
+CARDINAL	9001	nine thousand and one
+PLAIN	standards.	standards
+CARDINAL	5.	five
+PLAIN	The	the
+PLAIN	stock	<self>
+PLAIN	price	<self>
+PLAIN	surged	<self>
+PLAIN	to	<self>
+MONEY	$145.67	one hundred forty five dollars and sixty seven cents
+PLAIN	per	<self>
+PLAIN	share,	share
+PLAIN	making	<self>
+PLAIN	it	<self>
+PLAIN	a	<self>
+PLAIN	52-week	fifty two week
+PLAIN	high	<self>
+PLAIN	and	<self>
+PLAIN	creating	<self>
+PLAIN	a	<self>
+PLAIN	buzz	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	market	<self>
+PLAIN	for	<self>
+PLAIN	the	<self>
+LETTERS	ETF	e t f
+LETTERS	XYZ.	x y z
+CARDINAL	6	six
+PLAIN	Please	please
+PLAIN	dial	<self>
+TELEPHONE	+1-800-555-0199	plus one eight hundred five fifty five zero one nine nine
+PLAIN	to	<self>
+PLAIN	connect	<self>
+PLAIN	with	<self>
+PLAIN	customer	<self>
+PLAIN	support	<self>
+PUNCT	,	sil
+PLAIN	available	<self>
+PLAIN	from	<self>
+DATE	9:00	nine o'clock
+PLAIN	a.m.	a m
+PLAIN	to	<self>
+DATE	5:00	five o'clock
+PLAIN	p.m.	p m
+LETTERS	EST	est
+PUNCT	,	sil
+PLAIN	Monday	monday
+PLAIN	to	<self>
+PLAIN	Friday	friday
+PUNCT	.	sil
+PUNCT	7.	sil
+PLAIN	According	according
+PLAIN	to	<self>
+PLAIN	the	<self>
+DATE	2023	two thousand twenty three
+PUNCT	census,	sil
+PLAIN	the	<self>
+PLAIN	population	<self>
+PLAIN	density	<self>
+PLAIN	in	<self>
+PLAIN	the	<self>
+PLAIN	city	<self>
+PLAIN	was	<self>
+PLAIN	recorded	<self>
+PLAIN	at	<self>
+CARDINAL	5,500	five thousand five hundred
+PLAIN	people	<self>
+PLAIN	per	<self>
+PLAIN	square	<self>
+PUNCT	mile,	sil
+PLAIN	indicating	<self>
+PLAIN	substantial	<self>
+PLAIN	urban	<self>
+PUNCT	growth.	sil
+PUNCT	8.	sil
+PLAIN	The	the
+PLAIN	chemical	<self>
+PLAIN	compound	<self>
+LETTERS	NaCl	n a c l
+PLAIN	has	<self>
+PLAIN	a	<self>
+PLAIN	molecular	<self>
+PLAIN	weight	<self>
+PLAIN	of	<self>
+DECIMAL	58.44	fifty eight point four four
+MEASURE	g/mol	grams per mole
+PUNCT	,	sil
+PLAIN	which	<self>
+PLAIN	is	<self>
+PLAIN	essential	<self>
+PLAIN	for	<self>
+PLAIN	understanding	<self>
+PLAIN	its	<self>
+PLAIN	solubility	<self>
+PLAIN	in	<self>
+PLAIN	water	<self>
+PLAIN	at	<self>
+MEASURE	25°C	twenty five degrees celsius
+PUNCT	.	sil
+CARDINAL	9	nine
+PLAIN	During	during
+PLAIN	the	<self>
+PLAIN	meeting	<self>
+PUNCT	,	sil
+PLAIN	we	<self>
+PLAIN	reviewed	<self>
+PLAIN	the	<self>
+PLAIN	budget	<self>
+PLAIN	allocation	<self>
+PLAIN	of	<self>
+MONEY	$1.2M	one point two million dollars
+PLAIN	for	<self>
+PLAIN	the	<self>
+LETTERS	FY	f y
+CARDINAL	2024	twenty twenty four
+PLAIN	Enterprise	enterprise
+PLAIN	Resource	resource
+PLAIN	Planning	planning
+LETTERS	(ERP)	erp
+PLAIN	deployment	<self>
+PUNCT	.	sil
+CARDINAL	10	ten
+PLAIN	In	in
+PLAIN	the	<self>
+PLAIN	last	<self>
+PLAIN	survey	<self>
+PUNCT	,	sil
+CARDINAL	80%	eighty percent
+PLAIN	of	<self>
+PLAIN	respondents	<self>
+PLAIN	indicated	<self>
+PLAIN	that	<self>
+PLAIN	they	<self>
+PLAIN	prefer	<self>
+PLAIN	remote	<self>
+PLAIN	work	<self>
+PLAIN	options	<self>
+PUNCT	,	sil
+PLAIN	particularly	<self>
+PLAIN	from	<self>
+DATE	9:00	nine o'clock
+DATE	a.m.	a m
+PLAIN	to	<self>
+DATE	3:00	three o'clock
+DATE	p.m.	p m
+PLAIN	UTC	utc
+PUNCT	.	sil
