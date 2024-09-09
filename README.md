@@ -1,6 +1,8 @@
 # augmented-text-normalization
 This repository supports data augmentation using GPT-4o-mini for [NVIDIA Neural Text Normalization Models](https://github.com/NVIDIA/NeMo/tree/stable/examples/nlp/duplex_text_normalization).
 
+Generated sample data is available in `sample_data` directory.
+
 ## Data Augmentation
 **Note**: Since NVIDIA provides [a pretrained model](https://ngc.nvidia.com/catalog/models/nvidia:nemo:neural_text_normalization_t5) trained on [Google Text Normalization Dataset](https://www.kaggle.com/datasets/google-nlu/text-normalization), check it first.
 
