@@ -4,6 +4,7 @@ import threading
 from queue import Queue
 import os
 import json
+from tqdm import tqdm
 
 def parse_args():
     parser = argparse.ArgumentParser()
