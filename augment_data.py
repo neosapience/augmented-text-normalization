@@ -77,13 +77,21 @@ if __name__ == "__main__":
         augmented_data.extend(result)
     
     google_style_data = ""
-    for ad in augmented_data:
-        if ad["original_chunk"] == ad["normalized_chunk"]:
-            ad["normalized_chunk"] = "<self>"
-        google_style_data += ad["semiotic_class"] + "\t" + ad["original_chunk"] + "\t" + ad["normalized_chunk"] + "\n"
-    
-    with open(os.path.join(args.output_path, "google_style_data.tsv"), "w") as f:
-        f.write(google_style_data)
-    
-    with open(os.path.join(args.output_path, "full_data.json"), "w") as f:
-        json.dump(augmented_data, f, indent=4)
+    for add in augmented_data:
+        if isinstance(add, list):
+            for ad in add:
+                try:
+                    if ad["original_chunk"] == ad["normalized_chunk"]:
+                        ad["normalized_chunk"] = "<self>"
+                    google_style_data += ad["semiotic_class"] + "\t" + ad["original_chunk"] + "\t" + ad["normalized_chunk"] + "\n"
+                except:
+                    continue
+        else:
+            ad = add
+            try:
+                if ad["original_chunk"] == ad["normalized_chunk"]:
+                    ad["normalized_chunk"] = "<self>"
+                google_style_data += ad["semiotic_class"] + "\t" + ad["original_chunk"] + "\t" + ad["normalized_chunk"] + "\n"
+            except:
+                continue
+
